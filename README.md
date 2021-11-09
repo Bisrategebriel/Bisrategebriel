@@ -1,8 +1,3 @@
-.stats {
-  display: flex;
-  flex-flow: row nowrap;
-}
-
 <img src="/github-banner2.png" alt="banner"/>
 
 # Hi there and welcome to my Github page👋 
@@ -47,11 +42,11 @@
 ---
 
 ## GitHub Stats
-<div class="stats">
+<p class="stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bisrategebriel&count_private=true&title_color=0E8EE9&icon_color=0E8EE9&custom_title=Bisrategebriel's+GitHub+Stats&show_icons=true"/>
 
   <a href="https://app.daily.dev/Bisrategebriel"><img src="https://api.daily.dev/devcards/9ec085f568c2492ba746e65c96ae561d.png?r=m54" width="300" alt="Bisrategebriel Fisseha's Dev Card"/></a>  
-</div>
+</p>
 
 <!--
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bisrategebriel&hide=html&layout=compact&title_color=0E8EE9&icon_color=4FC08D&bg_color=ffffee&text_color=222222"/>
