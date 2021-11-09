@@ -42,7 +42,7 @@
 ---
 
 ## GitHub Stats
-<table border="0">
+<table border="0" border="none">
  <tr>
     <td>
        <img align="center" src="https://github-readme-stats.vercel.app/api?username=bisrategebriel&count_private=true&title_color=0E8EE9&icon_color=0E8EE9&custom_title=Bisrategebriel's+GitHub+Stats&show_icons=true"/>
