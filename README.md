@@ -20,8 +20,8 @@
   <img alt="C Sharp" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white&style=for-the-badge"/>
   <img alt="Blender" src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white&style=for-the-badge"/>
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white&style=for-the-badge"/>
-  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe Illustrator-31A8FF?logo=adobe-photoshop&logoColor=white&style=for-the-badge"/>
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-31A8FF?logo=adobe-photoshop&logoColor=white&style=for-the-badge"/>
+  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe Illustrator-31A8FF?logo=adobe-illustrator&logoColor=white&style=for-the-badge"/>
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-31A8FF?logo=figma&logoColor=white&style=for-the-badge"/>
 </p>
 
 ---
