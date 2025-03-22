@@ -34,7 +34,7 @@
   <a href="https://www.twitter.com/bisrate22fish">
     <img alt="Twitter" src="https://img.shields.io/badge/twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/bisrategebriel-fisseha-261b4415a/">
+  <a href="https://www.linkedin.com/in/bisrategebriel-fisseha-kis/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a>
   <a href="https://t.me/bisratops">
