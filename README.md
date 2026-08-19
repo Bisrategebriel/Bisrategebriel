@@ -4,7 +4,7 @@
 
 I am a Software engineer, UI/UX designer, and techpreneur based in Addis Ababa, Ethiopia. I build user-centered digital products across mobility, e-commerce, education, marketing, and enterprise — turning practical problems into meaningful digital experiences.
 
-Co-founder & CTO of **Flint Technologies**. Interested in emerging tech, AI, ML and entrepreneurship.
+Interested in emerging tech, AI, ML and entrepreneurship.
 
 ### Stack
 
